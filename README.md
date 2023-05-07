@@ -7,3 +7,4 @@
 * [преден код](https://github.com/xxai-art/web)
 * [Јазични пакети за страницата како целина](https://github.com/xxai-art/web/tree/main/i18n)
 * [Јазични пакети за модули за најавување](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Повеќејазична документација на веб-страница](https://github.com/xxai-doc)
